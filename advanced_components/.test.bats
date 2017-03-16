@@ -25,4 +25,4 @@ teardown() {
   kill_by_grep "webpack-dev-server"
   echo "travis_fold:end:advanced_components-tests"
   true
-}
+}}alert
